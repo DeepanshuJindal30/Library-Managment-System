@@ -1,5 +1,7 @@
 # Library-Managment-System
 
+A library management system is a software application or web-based system that facilitates the processes involved in a library, such as acquiring, cataloging, circulation, and tracking the library's collections of books, serials, and other materials.
+
 This code is a Python script that contains functions related to a library management system. It appears to allow a user to select and lend a book from a library database.
 
 The **mysql.connector** library is imported, which allows the script to connect to a MySQL database.
